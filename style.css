@@ -1,5 +1,7 @@
 /* CATEGORIES SECTION */
-
+.categories{
+    background:red;
+}
 .categories{
     padding:80px 10%;
     background:#f8f9ff;
